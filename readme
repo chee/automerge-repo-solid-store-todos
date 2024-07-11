@@ -1,0 +1,11 @@
+# automerge repo solid.js todo list app fgr
+
+while building littlebook i had a few ideas i wanted to try out, so i've created
+this example app to explore them.
+
+a fine-grained reactive handle can be found in
+[./src/use-automerge/use-document.ts].
+
+code just for illustrative purposes of how fun it is to take these precision
+updates from one browser, over the wire into another, and have that apply a
+precision dom update in another.

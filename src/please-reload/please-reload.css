@@ -1,0 +1,11 @@
+.sw-please-reload {
+	right: 3rem;
+	bottom: 3rem;
+	background: white;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	width: 12em;
+	padding: var(--space-4);
+	box-shadow: 0 8px 4px -2px oklch(0, 0, 0 / .2);
+}
